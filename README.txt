@@ -1,3 +1,5 @@
+Developed for Advanced C++/OOPP Course @ UNH
+
 # Instructions for makefile:
 
 make P12
