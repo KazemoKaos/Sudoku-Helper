@@ -18,4 +18,4 @@ g++ -o P12 *.cpp && ./P12 puzt.txt
 # Valgrind Command
 valgrind --leak-check=yes ./P12 puzt.txt
 
-![Alt text](https://cdn.discordapp.com/attachments/1010766384646602856/1113178700947664946/image.png)
+![Alt text](<https://cdn.discordapp.com/attachments/1010766384646602856/1113178700947664946/image.png>)
