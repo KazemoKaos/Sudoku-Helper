@@ -21,5 +21,6 @@ g++ -o P12 *.cpp && ./P12 puzt.txt
 # Valgrind Command
 valgrind --leak-check=yes ./P12 puzt.txt
 
-![Alt Text](https://cdn.discordapp.com/attachments/1010766384646602856/1113178700947664946/image.png)
-![Alt Text](https://cdn.discordapp.com/attachments/1010766384646602856/1113178759416262666/image.png)
+![img1](https://github.com/KazemoKaos/Sudoku-Helper/assets/34223008/09151503-3a13-484a-9657-3698d091721c)
+![img2](https://github.com/KazemoKaos/Sudoku-Helper/assets/34223008/3552a1b5-ce28-4b00-a222-7a19d0427ae2)
+![img3](https://github.com/KazemoKaos/Sudoku-Helper/assets/34223008/881023b9-1b35-4fc1-aa54-d61a04c1211a)
