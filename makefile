@@ -3,7 +3,7 @@
 	g++ -w -c $(CXXFLAGS) $<
 	
 # Compile with debug option and all warnings on.
-CXXFLAGS = -g -Wall -I../..
+CXXFLAGS = -g -w -Wall -I../..
 
 # Object modules comprising this application
 OBJ = *.cpp
