@@ -4,12 +4,12 @@ Input a File with an unsolved Sudoku Puzzle. A board will be displayed and a men
 
 Choose an Option:
 
-(1) Mark a Square with a number
-(2) Undo move
-(3) Redo move
-(4) Save current puzzle to a file
-(5) Restore puzzle from a file
-(6) Quit
+(1) Mark a Square with a number  
+(2) Undo move  
+(3) Redo move  
+(4) Save current puzzle to a file  
+(5) Restore puzzle from a file  
+(6) Quit  
 
 The Program is designed to display all options for each square after marking one. It is designed to help you solve the Sudoku Puzzle.
 
