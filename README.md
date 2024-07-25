@@ -1,4 +1,4 @@
-# Sudoku-Helper | Developed for Advanced C++/OOPP Course @ UNH
+# Sudoku-Helper | Developed for Advanced C++/OOPP
 
 Input a File with an unsolved Sudoku Puzzle. A board will be displayed and a menu will appear. 
 
