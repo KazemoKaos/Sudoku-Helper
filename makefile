@@ -1,6 +1,6 @@
 .SUFFIXES: .cpp
 .cpp.o:
-	g++ -c $(CXXFLAGS) $<
+	g++ -w -c $(CXXFLAGS) $<
 	
 # Compile with debug option and all warnings on.
 CXXFLAGS = -g -Wall -I../..
